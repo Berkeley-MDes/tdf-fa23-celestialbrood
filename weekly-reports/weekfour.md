@@ -110,6 +110,7 @@ to some personal experiences.
 </body>
 
 
+Also here's me working through it : [![Watch the video](https://img.youtube.com/vi/OXfT1pd5Eho/maxresdefault.jpg)](https://www.youtube.com/watch?v=OXfT1pd5Eho)
 
 
 
