@@ -13,4 +13,7 @@ Feel free to explore the projects, designs, and musings I've shared. If you're a
 **Happy designing and stargazing!** 🌌
 
 *Your Cosmic Explorer*
+*Mar Iya Aborisa* 
+
+est in berkeley, Ca 2023
 
