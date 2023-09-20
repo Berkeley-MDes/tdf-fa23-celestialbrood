@@ -13,6 +13,8 @@ Feel free to explore the projects, designs, and musings I've shared. If you're a
 **Happy designing and stargazing!** 🌌
 
 *Your Cosmic Explorer*
-*Mar Iya Aborisa* 
-est in berkeley, Ca 2023
+
+*Mar Iya Aborisa* aka Maria-Teresa Carmier, thanks for saying Maria-Teresa, if you can say Martin Luther King Jr you can refer to me as my WHOLE name. 
+
+est in South Central Los Angeles, CA 1988
 
