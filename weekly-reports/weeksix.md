@@ -5,5 +5,10 @@ This week has been exciting, I've struggled my ass off making this LED light bli
 
 But alas success!!!!
 
-I felt like Beyonce making it Blink tbh. 
+I felt like Beyonce of Technology making it Blink tbh. 
+*All hail our Techno Diva Queen*
+![Image](https://github.com/Berkeley-MDes/tdf-fa23-celestialbrood/raw/main/weekly-reports/IMG_0892.jpg)
+
+
+
 
