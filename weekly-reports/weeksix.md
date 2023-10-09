@@ -36,6 +36,8 @@ I was selected to join a competitive Black Parenting Innovation lab that asks us
   ### Future possibilities : 
 
   As I continue to integrate all that I've learned, it makes me think about how to connect this larger community question to Black History and Technology. 
+
+  I'm also working on a second project that situates AR/VR in Black Studies. I'm curious to understand more about emergent technologies and how we can use them to create novel learning opportunities for k12 students and extend History lessons beyond paper.
   
 
   
