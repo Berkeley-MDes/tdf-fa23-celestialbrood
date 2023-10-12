@@ -18,6 +18,8 @@ Once getting the sparcfun I can activate the servo to move and delegate the degr
 
 I reached out to Roland this week to discuss managing professors' expectations with my ability. He helped put things in perspective like how sometimes we all come from different backgrounds and many times, we're the only creative minority and when we get here to Berkeley, that is no longer the case. I am struggling but I am grateful for classes like TDF because even though the material is new and challenging the team is accessible and eager to support especially in places where one doesn't understand or takes longer to process. Group dynamics are hard and I am working to navigate them, even if it is a lonely venture, there are folks who've been in the trenches too and that helps to see things from the other side.  
 
+![Image](https://github.com/Berkeley-MDes/tdf-fa23-celestialbrood/raw/main/Folder/IMG_0942.jpeg)
+
 
 
 
