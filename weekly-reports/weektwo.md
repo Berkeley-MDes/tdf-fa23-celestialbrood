@@ -27,6 +27,6 @@ Transition is challenging but I am motivated and I see the progress!
 
 
 ### Speculations: 
-
+I feel like it is important to reflect internally for the sake of other poc students who come from different backgrounds, especially those of our peers. 
 
 
