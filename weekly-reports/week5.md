@@ -1,6 +1,6 @@
 ### Week 5 ###
 
-## Oops I overwhelmed myself with an extra project ##
+## Oops I overwhelmed myself with an extra projects ##
 
 In all the excitement of being at Berkeley, I manifested a project that would allow me to : 
 1. Code an avatar to speak
