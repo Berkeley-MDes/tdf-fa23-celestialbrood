@@ -1,4 +1,4 @@
-# My Week's Goals: Crafting a Homework Helper for My 4th Grader
+# Project 3 : Crafting a Homework Helper for My 4th Grader
 
 I've noticed my 4th grader grappling with new learning material lately. 
 As a mom who's intrigued by employing technology as a supportive tool, 
