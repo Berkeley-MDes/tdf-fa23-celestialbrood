@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Motion Sensor Sound Alert</title>
+    <script src="https://cdn.jsdelivr.net/particle-api-js/6/particle.min.js"></script>
+</head>
+<body>
+    <audio id="soundAlert" src="path_to_your_sound_file.mp3"></audio>
+    <script>
+        const particle = new Particle();
+        const token = 'YOUR_PARTICLE_ACCESS_TOKEN';
+        
+        particle.getEventStream({ name: 'movement_detected', auth: token }).then(function(stream) {
+            stream.on('event', function(data) {
+                console.log("Movement detected:", data);
+                document.getElementById('soundAlert').play();
+            });
+        });
+    </script>
+</body>
+</html>
